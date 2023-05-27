@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FCI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/newrecommender/FCI.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
