@@ -25,5 +25,7 @@ public interface Rater {
     public int numRatings();
 
     public ArrayList<String> getItemsRated();
+	
+
     
 }
